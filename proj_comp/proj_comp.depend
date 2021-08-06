@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1628238549 source:d:\tercero\compiladores\trabajo final\proj_comp\main.cpp
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+	<vector>
+	<allegro.h>
+

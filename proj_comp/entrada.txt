@@ -1,0 +1,1 @@
+inicio avanza 3 derecha avanza 2 izquierda retrocede 1 final
